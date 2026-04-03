@@ -1,61 +1,52 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Bibek%20Ram&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Biomedical%20Engineer%20%7C%20Neuroengineering%20Enthusiast&descAlignY=58&descColor=a0c4ff&animation=fadeIn"/>
-</div>
 
-<div align="center">
+<!-- ✨ ADVANCED ANIMATED HEADER CAPSULE -->
+<img width="100%" height="220" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:00d4ff&height=220&section=header&text=Bibek%20Ram&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Biomedical%20Engineer%20%7C%20BIS%20Regulatory%20Intern%20%7C%20IEEE%20Published&descAlignY=55&descColor=ffffff&descSize=28&animation=wave&replay=true"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🧠+Neuroengineering+%26+Neural+Science;🔬+Biosignal+Instrumentation+%26+Processing;🧬+Nanotechnology+%26+Material+Science;💻+Python+%7C+MATLAB+%7C+Signal+Processing;🏥+Biomedical+Devices+%26+Healthcare+Tech;🚀+Building+the+Future+of+Medicine)](https://git.io/typing-svg)
+<!-- 🎨 MULTI-LINE ANIMATED TYPING WITH BIOMEDICAL FOCUS -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&pause=800&color=00D4FF&background=0D111725&center=true&vCenter=true&width=900&lines=🧠+Neuroengineering+%26+Biosignal+Processing+%7C+95%25+Accuracy+EEG+Fusion;🏥+Medical+Device+Regulations+%7C+FDA+510%28k%29+%26+ISO+13485;🤖+Edge+AI+Healthcare+Diagnostics+%7C+Raspberry+Pi;🔬+BIS+Intern+%7C+Medical+Device+Standards;⚙️+IoT+Wearables+%26+Smart+Medical+Devices;🚀+Transforming+Precision+Medicine+with+Technology)](https://git.io/typing-svg)
 
-</div>
+<!-- 🌟 GLASSMORPHISM STATS CARDS -->
+<table>
+<tr>
+<td align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibekram4113&label=Profile%20Views&color=00d4ff&style=for-the-badge&backdrop=0d1117&glass=true" height="35"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/github/followers/bibekram4113?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github" height="35"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/github/stars/bibekram4113?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=star" height="35"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20GPA-9.75%2F10-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" height="35"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bibekram4113&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/bibekram4113?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/bibekram4113?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Stars"/>
-</div>
+<!-- 🎭 ANIMATED HEARTBEAT LINE + LOCATION -->
+<img src="https://img.shields.io/badge/Chennai%2C%20India-🇮🇳%20🧬-FF6B6B?style=for-the-badge&logo=location-dot&logoColor=white"/>
+<img src="https://img.shields.io/badge/BIS%20Intern%202025-🏥%20Standards-45B7D1?style=for-the-badge&logo=award&logoColor=white"/>
+<img src="https://img.shields.io/badge/IEEE%20Published-📚%20ICCSP%202025-F9CA24?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+<!-- 💫 SPARKLING PARTICLE EFFECT -->
+
 
 ---
 
-## 🧬 About Me
-```python
-class BibekRam:
-    def __init__(self):
-        self.name         = "Bibek Ram"
-        self.role         = "Biomedical Engineering Student"
-        self.university   = "SRM Institute of Science and Technology"
-        self.reg_no       = "RA2211013010119"
-        self.location     = "India 🇮🇳"
-        self.email        = "bibekram1212@gmail.com"
+## 🧬 **About Me** ✨
 
-    @property
-    def interests(self):
-        return [
-            "🧠 Neuroengineering & Brain-Computer Interfaces",
-            "🔬 Biosignal Instrumentation & Processing",
-            "🧬 Nanotechnology & Nanomedicine",
-            "🏥 Biomedical Devices & Healthcare Tech",
-            "📡 Signal & Image Processing",
-            "💊 Drug Delivery Systems",
-        ]
+<div align="center">
 
-    @property
-    def currently_learning(self):
-        return [
-            "Biosignal Instrumentation",
-            "Nanotechnology & Material Science",
-            "Signal & Image Processing",
-            "Python for Biomedical Applications",
-            "Neural Signal Analysis",
-        ]
+| **🎓 Education** | **🏢 Experience** | **📚 Achievements** |
+|-----------------|------------------|-------------------|
+| **B.Tech Biomedical Engineering**<br/>SRM Institute of Science & Technology<br/><br/>2022-2026 | **Bureau of Indian Standards (BIS)**<br/>**Regulatory Intern**<br/>June-July 2025<br/>Medical device standards | **IEEE ICCSP 2025 Publication**<br/>Multimodal Emotion Recognition<br/>**DOI: 10.1109/ICCSP64183.2025.11088814**<br/>95% accuracy |
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build the future of medicine together 🚀")
+**📍 Chennai, Tamil Nadu, India 🇮🇳** | **📱 +91 9939137481** | **✉️ bibekram1212@gmail.com**
 
-me = BibekRam()
-me.say_hi()
-```
+![Animated Bio](https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🧠+Neuroengineering+Enthusiast;🔬+Medical+Device+Regulatory+Specialist;🤖+Edge+AI+Healthcare+Innovator;⚙️+Embedded+Systems+%26+IoT+Developer;🏥+Transforming+Healthcare+Through+Technology)
+
+</div>
 
 ---
 
