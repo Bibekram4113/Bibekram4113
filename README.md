@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/github/stars/bibekram4113?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=star" height="35"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20GPA-9.75%2F10-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/B.Tech-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" height="35"/>
 </td>
 </tr>
 </table>
